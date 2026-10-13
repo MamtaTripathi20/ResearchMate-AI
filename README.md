@@ -240,9 +240,9 @@ Check the browser's downloads list and its download settings. If a third-party d
 
 - **Project:** ResearchMate AI
 - **Program:** MCA AI
-- **Institution:** Add your institution's official name
-- **Student:** Add your name
-- **Academic year:** Add your academic year
+- **Institution:** Dr. D. Y. Patil International University, Akurdi, Pune
+- **Student:** Mamta Tripathi
+- **Academic year:** 2026–2027
 
 ## License
 
